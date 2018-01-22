@@ -3,7 +3,7 @@
 // we use with this collection. Moreover using a schema for this collection
 // would be difficult (different activities have different fields) and wouldn't
 // bring any direct advantage.
-//
+// hola
 // XXX The activities API is not so nice and need some functionalities. For
 // instance if a user archive a card, and un-archive it a few seconds later we
 // should remove both activities assuming it was an error the user decided to
